@@ -30,7 +30,7 @@ jobs:
       - name: 📥 Cloning Upstream Repository
         uses: actions/checkout@v4
         with:
-          repository: nadimkobeissi/mkbsd
+          repository: vaimalaviya1233/mkbsd
 
       - name: 🛠️ Setup Node.js environment
         uses: actions/setup-node@v4.0.4
